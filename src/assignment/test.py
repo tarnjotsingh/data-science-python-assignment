@@ -2,6 +2,9 @@ import numpy as mp
 import pandas as pd
 from math import sin, cos, sqrt, atan2, radians
 
+'''
+TASK 1
+'''
 
 # Solution from: https://stackoverflow.com/questions/19412462/getting-distance-between-two-points-based-on-latitude-longitude
 def calcKm(startLat, startLon, endLat, endLon):
